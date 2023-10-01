@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
 <h3 align="center">4th grade cs student</h3>
 
-- 🔭 I’m currently working on **back-end development with Java & WEB development with Spring Framwework**
+- 🔭 I’m currently working on **back-end development with Java & WEB development with Spring Framework**
 - 🌱 I’m currently learning **JavaScript, NodeJs, MongoDB**
 
 - 📫 How to reach me **berkk.arsln@gmail.com**
