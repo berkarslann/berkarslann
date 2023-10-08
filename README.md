@@ -2,7 +2,7 @@
 <h3 align="center">4th grade cs student</h3>
 
 - 🔭 I’m currently working on **back-end development with Java & Spring Framework**
-- 🌱 I’m currently learning **React*
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **berkk.arsln@gmail.com**
 - 📝 I regularly write articles on **https://medium.com/@berkk.arsln**
